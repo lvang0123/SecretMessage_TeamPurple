@@ -1,3 +1,7 @@
+#Python Team Project - Secret Message
+#This program will prompt the user for a message that will be encrypted. The user will then be asked to enter a key (number) to be used to determine which letters ahead of the letters in the message (user input) will be used. 
+#May 1, 2018 - Ben, Dan, Kyle, Lisa, and Lia all worked on this program together during class time.
+
 #Kyle - declaring variables
 #!/bin/python3
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
@@ -14,7 +18,7 @@ key = int(key)
 
 print()
 
-#Lia - 
+#Lia  
 # if the character in the message
 # is in the defined alphabet
 # finds new position based on key
@@ -26,7 +30,7 @@ for character in message:
     newCharacter = alphabet[newPosition]
     newMessage += newCharacter
 
-  #Lisa
+  #Lisa 
   else:
     newMessage += character
 
