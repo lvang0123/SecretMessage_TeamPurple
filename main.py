@@ -1,6 +1,6 @@
 #Python Team Project - Secret Message
 #This program will prompt the user for a message that will be encrypted. The user will then be asked to enter a key (number) to be used to determine which letters ahead of the letters in the message (user input) will be used. 
-#May 1, 2018 - Ben, Dan, Kyle, Lisa, and Lia all worked on this program together during class time.
+#May 1, 2018 - Ben, Dan, Kyle, Lisa, and Lia all worked on this program together during class time, and collaboratively through Google Hangouts and GitHub.
 
 #Kyle - declaring variables
 #!/bin/python3
