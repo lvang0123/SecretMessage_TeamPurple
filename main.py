@@ -8,7 +8,7 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 newMessage = ''
 
 #Dan - prompt user to input message for encryption
-message = input('Please enter a message')
+message = input('Please enter a message in lower-case letters.')
 
 print()
 
