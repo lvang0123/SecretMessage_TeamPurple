@@ -14,7 +14,9 @@ decryptNo = "no"
 decryptYes = "yes"
 rerun = "Y"
 
+#Rerunning the program if the user inputs 'Y' at the end of the program
 while rerun.lower().upper() != 'N':
+  
   #Dan - prompt user to input message for encryption
   while True:
     message = input('Please enter a message in lowercase letters to be encrypted:')
